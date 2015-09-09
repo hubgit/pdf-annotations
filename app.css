@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+}
+
+#progress {
+	padding: 0.5rem;
+	margin: 0.5rem;
+	background: #eef;
+}
+
+#container {
+	width: 50rem;
+}
+
+.note {
+	padding: 0.5rem;
+	margin: 0.5rem;
+	background: #F9F9BF;
+	border: 1px solid #ECE700;
+}
+
+.note-title {
+	font-style: italic;
+}
